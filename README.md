@@ -16,7 +16,7 @@ It demonstrates:
 
  - Writing clean and readable Python code
 
-How the Game Works
+How the Game Works:
 
 The program randomly selects a number between 1 and 100
 
@@ -32,7 +32,7 @@ The game continues until the correct number is guessed
 
 
 
-Example Gameplay
+Example Gameplay:
 
 Enter a number between 0 and 100: 40
 
@@ -46,7 +46,7 @@ Enter a number between 0 and 100: 55
 
 Congratulations for guessing the number!
 
-What I Learned
+What I Learned:
  - How to use the random module
 
  - How to validate user input using try and except
@@ -55,7 +55,7 @@ What I Learned
 
  - How to give clear feedback to users
 
-Future Improvements
+Future Improvements:
 
  - Add a limited number of attempts
 
@@ -65,7 +65,7 @@ Future Improvements
 
  - Convert the game into a GUI or web app
 
-Author
+Author:
 
   - Lindokuhle Nqwala
     
