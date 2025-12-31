@@ -67,6 +67,4 @@ Future Improvements:
 
 Author:
 
-  - Lindokuhle Nqwala
-    
-  - Beginner Python Developer 🚀
+  - Lindokuhle Nqwala -- Beginner Python Developer 🚀
