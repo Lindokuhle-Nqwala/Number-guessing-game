@@ -1,4 +1,4 @@
-Number Guessing Game 🎯
+Number Guessing Game 
 
 A beginner-friendly Python console game where the player guesses a randomly generated number.
 This project was built to practice Python basics, loops, conditionals, and user input handling.
@@ -67,4 +67,4 @@ Future Improvements:
 
 Author:
 
-  - Lindokuhle Nqwala -- Beginner Python Developer 🚀
+  - Lindokuhle Nqwala -- Beginner Python Developer 
