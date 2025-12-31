@@ -33,11 +33,17 @@ The game continues until the correct number is guessed
 
 
 Example Gameplay
+
 Enter a number between 0 and 100: 40
+
 Number is low!
+
 Enter a number between 0 and 100: 70
+
 Number is high!
+
 Enter a number between 0 and 100: 55
+
 Congratulations for guessing the number!
 
 What I Learned
